@@ -15,9 +15,32 @@
 }
 
 body{
-    color: var(--branco);
-    background-color: var(--cor-de-fundo);
-    font-family: var(--roboto);
+    .barra{
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+.forca{
+    height: 30px;
+    position: relative;
+    bottom: 30px;
+}
+.forte{
+    background-color: #00FF85;
+    width: 100%;
+}
+.media{
+    background-color: #FAF408;
+    width: 50%;
+}
+.fraca{
+    width: 25%;
+    background-color: #E71B32; 
+}
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
 }
 
 .titulo-principal{
