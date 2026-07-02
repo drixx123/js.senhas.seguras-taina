@@ -53,7 +53,12 @@ body{
 }
 
 .conteudo-titulo{
-    text-align: center;
+    text-align: center;Durante o processo de desenvolvimento da aplicação, Camila pesquisou sobre os conceitos de entropia e então, resolveu criar uma variável que será baseada no tamanho da senha e na aleatoriedade dos caracteres.
+
+Agora, ordene todos os blocos para ajudar Camila a criar a variável entropia.
+
+Clique nos blocos para ordená-los
+
     margin-top: 80px;
 }
 
